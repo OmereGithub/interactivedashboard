@@ -10,3 +10,11 @@ Date: August 9, 2019
 
 Viewers can see my findings here:
 
+- **workflow.ipynb:** My workflow contains the link to the interactive dashboard, reveals all data analysis, deployed machine learning algorithms, and final results
+- **app2.py:** This file contains the code that was used to create and deploy the interactive dashboard
+
+## Starter Files
+
+Provided files that allowed me carry out this project: 
+
+- **/datasets:** This folder contains the 9 datasets that were generated from lab test
