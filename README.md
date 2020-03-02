@@ -10,7 +10,7 @@ Date: August 9, 2019
 
 Viewers can see my findings here:
 
-- **workflow.ipynb:** A version of my workflow which contains plots has been rendered to nbviewer [here](https://nbviewer.jupyter.org/github/OmereGithub/interactivedashboard/blob/master/workflow.ipynb). The Notebook also contains the link to the interactive dashboard, reveals all data analysis, deployed machine learning algorithms, and final results
+- **wrkflow.ipynb:** A version of my workflow which contains plots has been rendered to nbviewer [here](https://nbviewer.jupyter.org/github/OmereGithub/interactivedashboard/blob/master/wrkflow.ipynb). The Notebook also contains the link to the interactive dashboard, reveals all data analysis, deployed machine learning algorithms, and final results
 
 ## Starter File
 
